@@ -112,4 +112,24 @@ const velocidadVentilador = (velocidad) => {
                     return "Alta";
 
  }
- console.log(velocidadVentilador);
+ 
+ 
+const evalurEdadConIfElse = (edad) => {
+    if ( edad >= 18 ){
+        return "Eres mayor de edad";
+    }else {
+        return "Eres menor de edad";
+    }
+}
+console.log( evalurEdadConIfElse(20) ); // Eres mayor de edad
+
+// ------------------- Ejercicio Estaciones del año --------------------------
+/*
+ Preguntar por el número de mes (prompt o DOM), del 1 al 12
+ Desplegar de acuerdo al mes un Alert (mostrarlo en el DOM) la estación del año.
+ mes 12,  1,  2 = invierno.
+ mes  3,  4,  5 = primavera
+ mes  6,  7,  8 = verano
+ mes  9, 10, 11 = otoño 
+ Realizar una versión con if-else-elseif y otra con switch.
+*/
