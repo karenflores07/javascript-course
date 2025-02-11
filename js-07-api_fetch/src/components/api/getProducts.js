@@ -38,3 +38,5 @@
      .finally( ()=>console.log("He terminado") ) 
  };
  getProducts("https://fakestoreapi.com/products");
+
+ 

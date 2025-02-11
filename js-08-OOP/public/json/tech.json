@@ -1,0 +1,100 @@
+
+[
+  {
+
+    "name":"",
+    "last_name":"",
+    "ubicacion" : "",
+    "direccion":"",
+    "correo":""
+
+  },
+
+
+
+  {
+    "id":"10",
+    "marca":"Lenovo",
+    "Ram":"10tb",
+    "color":"azul"
+
+
+    },
+
+    
+    {
+
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[
+  {
+    "id": 1,
+    "nombre": "Procesador Intel Core i7-12700K",
+    "precio": 7200.00,
+    "categoria": "Procesadores",
+    "stock": 12,
+    "descripcion": "Procesador de 12 núcleos y 20 hilos con velocidad turbo de 5.0 GHz.",
+    "marca": "Intel"
+  },
+  {
+    "id": 2,
+    "nombre": "Tarjeta Madre MSI MAG B660M",
+    "precio": 2800.00,
+    "categoria": "Placas Base",
+    "stock": 8,
+    "descripcion": "Compatible con procesadores Intel de 12ª generación y soporte DDR4.",
+    "marca": "MSI"
+  },
+  {
+    "id": 3,
+    "nombre": "Disco Duro SSD Kingston NV2 1TB",
+    "precio": 1500.00,
+    "categoria": "Almacenamiento",
+    "stock": 20,
+    "descripcion": "SSD NVMe PCIe 4.0 con velocidades de hasta 3500 MB/s.",
+    "marca": "Kingston"
+  },
+  {
+    "id": 4,
+    "nombre": "Fuente de Poder Corsair RM750x",
+    "precio": 2300.00,
+    "categoria": "Fuentes de Poder",
+    "stock": 10,
+    "descripcion": "Fuente de alimentación modular de 750W con certificación 80 Plus Gold.",
+    "marca": "Corsair"
+  }
+]
